@@ -1,2 +1,2 @@
-# coding--leetcode
-This is the repo that used to save my practice coding. 
+# LeetCode C++ Problems
+Use this structure to add daily solutions.
